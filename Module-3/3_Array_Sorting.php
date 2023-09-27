@@ -108,7 +108,7 @@
         <table border="0" cellspacing="0" cellpadding="0">
             <tr>
                 <th>
-                    <p class='ArraySorting-Example'>Example Array: [85, 92, 78, 88, 95];</p>
+                    <p class='ArraySorting-Example'>Example Array: [85, 92, 78, 88, 95]</p>
                 </th>
             <tr></tr>
             <tr>
