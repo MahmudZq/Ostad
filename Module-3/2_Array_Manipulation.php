@@ -112,7 +112,7 @@
         <table border="0" cellspacing="0" cellpadding="0">
             <tr>
                 <th>
-                    <p class='ArrayManipulation-Example'>Example Array: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];</p>
+                    <p class='ArrayManipulation-Example'>Example Array: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]</p>
                 </th>
             <tr></tr>
             <tr>
