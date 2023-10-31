@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.content-body {
+    margin-top: 100px;
+}
+
+.btn-primary {
+    background-color: #004f28 !important;
+    border-color: #006354 !important;
+}
+
+.btn-primary:hover {
+    background-color: #004f28 !important;
+    border-color: #004f28 !important;
+}
+
+.card-header, .card-footer {
+    background-color: #006354;
+    color: #ffffff;
+}
+
+input, select {
+    box-shadow: none !important;
+}
+
+input:focus {
+    border-color: #006354 !important;
+}
+
+label {
+    position: relative;
+    top: 14px;
+    background: #ffffff;
+    color: #004f28;
+    margin: 0 12px;
+    padding: 0 0px;
+    font-size: 15px;
+}
+
+::after {
+    display: none !important;
+}
+
+form a {
+    color: #006354 !important;
+}
